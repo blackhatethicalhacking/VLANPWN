@@ -35,8 +35,8 @@ options:
   --nativevlan NATIVEVLAN
                         Specify the Native VLAN ID
   --targetvlan TARGETVLAN
-                        Specity the target VLAN ID for attack
-  --victim VICTIM       Specity the target IP
+                        Specify the target VLAN ID for attack
+  --victim VICTIM       Specify the target IP
   --attacker ATTACKER   Specify the attacker IP
   ```
   Example:
