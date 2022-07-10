@@ -1,7 +1,7 @@
 # VLANPWN
 VLAN attacks toolkit
 
-**The author has nothing to do with those who will use this tools for personal purposes to destroy other people's computer networks. The tools are presented for training purposes to help engineers improve the security of their network.**
+**The author has nothing to do with those who will use these tools for personal purposes to destroy other people's computer networks. The tools are presented for training purposes to help engineers improve the security of their network.**
 
 **ᛝ**
 
