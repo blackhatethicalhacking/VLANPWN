@@ -21,7 +21,7 @@ SS    S%S SS        SSSs. S%S SS `S.S%S SS .sS::' SS S%S S%S SS `S.S%S
    `:;;:' `:;;;;;:' :;    ;:' :;    ;:' `:        `:;;:'`::' :;    ;:'
     """)
 print ("VLAN Double Tagging inject tool. Jump into another VLAN!")
-print("\nAuthor: @necreas1ng, <necreas1ng@protonmail.com>\n")
+print("\nAuthor: Magama Bazarov, <in9uz@protonmail.com>\n")
 
 
 def take_arguments():
