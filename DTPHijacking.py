@@ -22,7 +22,7 @@ SS    S%S SS        SSSs. S%S SS `S.S%S SS .sS::' SS S%S S%S SS `S.S%S
    `:;;:' `:;;;;;:' :;    ;:' :;    ;:' `:        `:;;:'`::' :;    ;:'
     """)
 print ("DTP Switch Hijacking tool. Become a trunk!")
-print("\nAuthor: @necreas1ng, <necreas1ng@protonmail.com>\n")
+print("\nAuthor: Magama Bazarov, <in9uz@protonmail.com>\n")
 
 L2CiscoMulticastAddr = "01:00:0C:CC:CC:CC"
 
