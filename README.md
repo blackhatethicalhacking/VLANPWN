@@ -24,7 +24,7 @@ SS    S%S SS        SSSs. S%S SS `S.S%S SS .sS::' SS S%S S%S SS `S.S%S
 
 VLAN Double Tagging inject tool. Jump into another VLAN!
 
-Author: @necreas1ng, <necreas1ng@protonmail.com>
+Author: Magama Bazarov, <in9uz@protonmail.com>
 
 usage: DoubleTagging.py [-h] --interface INTERFACE --nativevlan NATIVEVLAN --targetvlan TARGETVLAN --victim VICTIM --attacker ATTACKER
 
@@ -60,7 +60,7 @@ SS    S%S SS        SSSs. S%S SS `S.S%S SS .sS::' SS S%S S%S SS `S.S%S
 
 DTP Switch Hijacking tool. Become a trunk!
 
-Author: @necreas1ng, <necreas1ng@protonmail.com>
+Author: Magama Bazarov, <in9uz@protonmail.com>
 
 usage: DTPHijacking.py [-h] --interface INTERFACE
 
